@@ -4,7 +4,7 @@ description: Écrire et réviser des textes en français qui ne sonnent pas comm
 license: MIT
 metadata:
   author: Tamer Benturquia
-  github: https://github.com/Temroade-cmd/moi-juste
+  github: https://github.com/Temroade-cmd/mot-juste
   version: 0.1.0
 ---
 
